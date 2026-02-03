@@ -1,6 +1,6 @@
 ## About me
 
-I am a student learning defensive cybersecurity with a focus on understanding how real systems fail and how organizations can reduce risk.
+I am learning defensive cybersecurity with a focus on understanding how real systems fail and how organizations can reduce risk.
 
 My long-term goal is to develop the mindset required for responsible security leadership.
 
